@@ -1,2 +1,2 @@
 # FastTube
-a webapp to download youtube subtitel for chatgpt ai 
+a webapp to download youtube subtitles for chatgpt ai 
